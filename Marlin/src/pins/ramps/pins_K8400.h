@@ -71,3 +71,6 @@
   #undef Z_STEP_PIN
   #define Z_STEP_PIN                          32
 #endif
+
+#undef SERVO0_PIN
+#define SERVO0_PIN                            40
